@@ -1,4 +1,4 @@
-# Project Name: Covid-19 Global cases
+# Project Name: Covid-19 Global cases using MS.Excel
 
 ---
 
